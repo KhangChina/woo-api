@@ -1,0 +1,190 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://htgsoft-web.com/woo-api
+Data file = /home/htgsoftweb/domains/htgsoft-web.com/public_html/woo-api/wp-content/uploads/2022/11/demo-content-import-file_2022-11-11__07-43-27.xml
+Widget file = /home/htgsoftweb/domains/htgsoft-web.com/public_html/woo-api/wp-content/uploads/2022/11/demo-widgets-import-file_2022-11-11__07-43-27.json
+Customizer file = not defined!
+Redux files:
+mymedi_theme_options -> /home/htgsoftweb/domains/htgsoft-web.com/public_html/woo-api/wp-content/uploads/2022/11/demo-redux-import-file_0-2022-11-11__07-43-27.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Categories - Categories - Imported
+TS - Related Products - Related Products - Imported
+Image - No Title - Imported
+
+Blog Detail Sidebar : 
+
+Categories - Categories - Imported
+TS - Related Products - Related Products - Imported
+Image - No Title - Imported
+
+Product Category Sidebar : 
+
+TS - Product Categories - Categories - Imported
+Filter Products by Price - By price - Imported
+TS - Product Filter By Color - Color - Imported
+TS - Product Filter By Brand - Brands - Imported
+Filter Products by Rating - Ratings - Imported
+Image - No Title - Imported
+
+Filter Widget Area : 
+
+TS - Product Categories - No Title - Imported
+Filter Products by Price - By price - Imported
+TS - Product Filter By Color - Color - Imported
+TS - Product Filter By Brand - Brands - Imported
+Filter Products by Rating - Ratings - Imported
+Image - No Title - Imported
+
+Product Detail Sidebar : 
+
+Image - No Title - Imported
+TS - Related Products - Related Products - Imported
+Image - No Title - Imported
+
+TS Mega Menu Widget Area 3 : 
+
+Image - Home 1 - Imported
+Image - Home 2 - Imported
+Image - Home 3 - Imported
+Image - Home 4 - Imported
+Image - Home 5 - Imported
+Image - Home 6 Masks - Imported
+Image - Home 7 One product - Imported
+Image - Home 8 - Imported
+Image - Home 9 - Imported
+Image - Home 10 - Imported
+Image - Home 11 - Imported
+Image - Home 12 - Imported
+Image - Home 13 - Imported
+Image - Home 14 - Imported
+Image - Home 15 - Imported
+
+TS Mega Menu Widget Area 4 : 
+
+Navigation Menu - Category - Imported
+Navigation Menu - Pages - Imported
+Navigation Menu - Product - Imported
+Navigation Menu - Blog - Imported
+Navigation Menu - Home - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: mymedi_theme_options finished successfully!
+
+---ocdi/after_import---
+

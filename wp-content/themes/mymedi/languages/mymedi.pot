@@ -1,0 +1,2606 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MyMedi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-06 04:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: content.php:146 single.php:89 templates/related-posts.php:171
+#, php-format
+msgid "%d comment"
+msgid_plural "%d comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: title of menu item which is invalid
+#: framework/mega_menu.php:296
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: framework/mega_menu.php:300
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: single-portfolio.php:165
+#, php-format
+msgid "%s Like"
+msgid_plural "%s Likes"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/content-product-cat.php:63
+#, php-format
+msgid "%s Product"
+msgid_plural "%s Products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/loop/rating.php:32 woocommerce/single-product/rating.php:38
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/theme_filter.php:53
+msgid "(Edit)"
+msgstr ""
+
+#: framework/mega_menu.php:432
+msgid "1 column"
+msgstr ""
+
+#: admin/options.php:2958
+msgid "2 Columns"
+msgstr ""
+
+#: framework/mega_menu.php:433
+msgid "2 columns"
+msgstr ""
+
+#: framework/mega_menu.php:434
+msgid "3 columns"
+msgstr ""
+
+#: framework/mega_menu.php:435
+msgid "4 columns"
+msgstr ""
+
+#: 404.php:17
+msgid "404"
+msgstr ""
+
+#: admin/options.php:290
+msgid "404 Image"
+msgstr ""
+
+#: 404.php:25
+msgid "404 image"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A Premium and Responsive WordPress theme, designed for E-Commerce websites"
+msgstr ""
+
+#: admin/options.php:2167
+msgid "Above Comment"
+msgstr ""
+
+#: admin/options.php:2500
+msgid "Activate Lazy Load"
+msgstr ""
+
+#: admin/options.php:2525
+msgid "Activate Quickshop"
+msgstr ""
+
+#: woocommerce/archive-product.php:72
+msgid "Active filters:"
+msgstr ""
+
+#: admin/options.php:1960
+msgid "Add a banner between blogs"
+msgstr ""
+
+#: framework/theme_filter.php:108
+msgid "Add a comment"
+msgstr ""
+
+#: admin/options.php:3014
+msgid "Add border to main thumbnail and gallery"
+msgstr ""
+
+#: admin/options.php:1968
+msgid "Add link to blog banner"
+msgstr ""
+
+#: framework/woo_hooks.php:1254
+msgid "Add Review"
+msgstr ""
+
+#: admin/register_sidebar.php:88
+msgid "Add Sidebar"
+msgstr ""
+
+#: admin/options.php:1568
+msgid "Add To Cart Effect"
+msgstr ""
+
+#: framework/woo_hooks.php:1141 framework/woo_hooks.php:1151
+msgid "Add to compare"
+msgstr ""
+
+#: framework/woo_hooks.php:1111 framework/woo_hooks.php:1117
+msgid "Add to wishlist"
+msgstr ""
+
+#: woocommerce/single-product/rating.php:44
+msgid "Add your review"
+msgstr ""
+
+#: admin/options.php:3213
+msgid "After Summary"
+msgstr ""
+
+#: admin/options.php:2668
+msgid "Ajax Pagination"
+msgstr ""
+
+#: admin/options.php:2548
+msgid "Ajax Search"
+msgstr ""
+
+#: admin/options.php:337
+msgid "All Pages"
+msgstr ""
+
+#: admin/options.php:2636
+msgid "Allow users to select columns on frontend"
+msgstr ""
+
+#: admin/options.php:2677
+msgid "Allow users to select number of products per page"
+msgstr ""
+
+#: admin/options.php:2686
+msgid "Allow users to view only the discounted products"
+msgstr ""
+
+#: archive.php:40
+msgid "Archives"
+msgstr ""
+
+#: framework/theme_functions.php:603
+msgid "Articles posted by "
+msgstr ""
+
+#: framework/vc_extension/update_param.php:209
+msgid "Auto Play"
+msgstr ""
+
+#: framework/woo_hooks.php:970
+msgid "Availability:"
+msgstr ""
+
+#: framework/woo_hooks.php:86
+msgid "Available on backorder"
+msgstr ""
+
+#: framework/woo_hooks.php:598
+msgid "Average rating"
+msgstr ""
+
+#: admin/options.php:2478
+msgid "Back Product Image"
+msgstr ""
+
+#: 404.php:20
+msgid "Back to homepage"
+msgstr ""
+
+#: footer.php:32
+msgid "Back to Top"
+msgstr ""
+
+#: admin/options.php:260
+msgid "Back To Top Button"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:125
+#: framework/vc_extension/update_param.php:136
+#: framework/vc_extension/update_param.php:146
+#: framework/vc_extension/update_param.php:156
+#: framework/vc_extension/update_param.php:166
+#: framework/vc_extension/update_param.php:176
+#: framework/vc_extension/update_param.php:187
+#: framework/vc_extension/update_param.php:198
+#: framework/vc_extension/update_param.php:212
+msgid "Background"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:132
+msgid "Background Image"
+msgstr ""
+
+#: framework/mega_menu.php:508
+msgid "Background Position"
+msgstr ""
+
+#: framework/mega_menu.php:495
+msgid "Background Repeat"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:117
+msgid "Background Type"
+msgstr ""
+
+#: admin/options.php:2168
+msgid "Below Comment"
+msgstr ""
+
+#: admin/options.php:2703 admin/options.php:3256 admin/options.php:3263
+msgid "Best Selling Products"
+msgstr ""
+
+#: framework/woo_hooks.php:432
+msgid "Bestsellers"
+msgstr ""
+
+#: framework/woo_hooks.php:432
+msgid "Bestsellers in"
+msgstr ""
+
+#. Name of the template
+msgid "Blank Page Template"
+msgstr ""
+
+#: admin/options.php:1803 admin/redux.php:202
+msgid "Blog"
+msgstr ""
+
+#: admin/options.php:1897 admin/options.php:2074
+msgid "Blog Author"
+msgstr ""
+
+#: admin/options.php:2145
+msgid "Blog Author Box"
+msgstr ""
+
+#: page-templates/blog-template.php:89 admin/options.php:1958
+msgid "Blog Banner"
+msgstr ""
+
+#: admin/options.php:1967
+msgid "Blog Banner Link"
+msgstr ""
+
+#: admin/options.php:2029
+msgid "Blog Breadcrumb"
+msgstr ""
+
+#: admin/options.php:1924 admin/options.php:2110
+msgid "Blog Categories"
+msgstr ""
+
+#: admin/options.php:1856
+msgid "Blog Columns"
+msgstr ""
+
+#: admin/options.php:1906 admin/options.php:2083
+msgid "Blog Comment"
+msgstr ""
+
+#: admin/options.php:2186
+msgid "Blog Comment Form"
+msgstr ""
+
+#: admin/options.php:2092
+msgid "Blog Content"
+msgstr ""
+
+#: admin/options.php:1879 admin/options.php:2056
+msgid "Blog Date"
+msgstr ""
+
+#: admin/register_sidebar.php:21
+msgid "Blog Detail Sidebar"
+msgstr ""
+
+#: admin/options.php:1976
+msgid "Blog Details"
+msgstr ""
+
+#: admin/options.php:1983
+msgid "Blog Details Layout"
+msgstr ""
+
+#: admin/options.php:1933
+msgid "Blog Excerpt"
+msgstr ""
+
+#: admin/options.php:1949
+msgid "Blog Excerpt Max Words"
+msgstr ""
+
+#: admin/options.php:1942
+msgid "Blog Excerpt Strip All Tags"
+msgstr ""
+
+#: admin/options.php:1810
+msgid "Blog Layout"
+msgstr ""
+
+#: admin/options.php:2038
+msgid "Blog Next/Prev Navigation"
+msgstr ""
+
+#: admin/options.php:1915
+msgid "Blog Read More Button"
+msgstr ""
+
+#: admin/options.php:2154
+msgid "Blog Related Posts"
+msgstr ""
+
+#: admin/options.php:2177
+msgid "Blog Related Posts Background Image"
+msgstr ""
+
+#: admin/options.php:2163
+msgid "Blog Related Posts Position"
+msgstr ""
+
+#: admin/options.php:2119
+msgid "Blog Sharing"
+msgstr ""
+
+#: admin/options.php:2136
+msgid "Blog Sharing - ShareThis Key"
+msgstr ""
+
+#: admin/options.php:2128
+msgid "Blog Sharing - Use ShareThis"
+msgstr ""
+
+#: admin/register_sidebar.php:13
+msgid "Blog Sidebar"
+msgstr ""
+
+#: admin/options.php:2101
+msgid "Blog Tags"
+msgstr ""
+
+#. Name of the template
+msgid "Blog Template"
+msgstr ""
+
+#: admin/options.php:1870 admin/options.php:2047
+msgid "Blog Thumbnail"
+msgstr ""
+
+#: admin/options.php:1888 admin/options.php:2065
+msgid "Blog Title"
+msgstr ""
+
+#: admin/options.php:984
+msgid "Body Font"
+msgstr ""
+
+#: admin/options.php:1050
+msgid "Body Font Bold"
+msgstr ""
+
+#: admin/options.php:1006
+msgid "Body Font Medium"
+msgstr ""
+
+#: admin/options.php:1028
+msgid "Body Font Semi Bold"
+msgstr ""
+
+#: admin/options.php:511
+msgid "Border Color"
+msgstr ""
+
+#: admin/options.php:943
+msgid "Bottom Bar Background Color"
+msgstr ""
+
+#: admin/options.php:953
+msgid "Bottom Bar Border Color"
+msgstr ""
+
+#: admin/options.php:963
+msgid "Bottom Bar Icon Color"
+msgstr ""
+
+#: admin/options.php:2836 admin/options.php:3309 admin/options.php:3316
+msgid "Bottom Content"
+msgstr ""
+
+#: admin/options.php:752
+msgid "Bottom Dark Header Background Color"
+msgstr ""
+
+#: admin/options.php:772
+msgid "Bottom Dark Header Border Color"
+msgstr ""
+
+#: admin/options.php:762
+msgid "Bottom Dark Header Text Color"
+msgstr ""
+
+#: admin/options.php:645
+msgid "Bottom Header Background Color"
+msgstr ""
+
+#: admin/options.php:665
+msgid "Bottom Header Border Color"
+msgstr ""
+
+#: admin/options.php:655
+msgid "Bottom Header Text Color"
+msgstr ""
+
+#: admin/options.php:937
+msgid "Bottom Icons On Mobile"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:109
+msgid "Boxed"
+msgstr ""
+
+#: admin/options.php:1702
+msgid "Breadcrumb Layout"
+msgstr ""
+
+#: admin/options.php:66
+#, php-format
+msgid "Breadcrumb Layout %s"
+msgstr ""
+
+#: admin/options.php:1695
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: admin/options.php:1719
+msgid "Breadcrumbs Background Image"
+msgstr ""
+
+#: admin/options.php:1303 admin/options.php:1416
+msgid "Button/Input Font Size"
+msgstr ""
+
+#: framework/mega_menu.php:547
+msgid "Cancel"
+msgstr ""
+
+#: framework/theme_filter.php:107
+msgid "Cancel reply"
+msgstr ""
+
+#: framework/theme_functions.php:346
+msgid "Cant delete the sidebar. Please try again!"
+msgstr ""
+
+#: framework/woo_functions.php:107 framework/woo_functions.php:110
+#, php-format
+msgid "Cart (%d)"
+msgstr ""
+
+#: admin/options.php:2533
+msgid "Catalog Mode"
+msgstr ""
+
+#: single-portfolio.php:121 framework/woo_hooks.php:938
+msgid "Categories:"
+msgstr ""
+
+#: framework/woo_hooks.php:466
+msgid "Categories: "
+msgstr ""
+
+#: archive.php:34
+msgid "Category: "
+msgstr ""
+
+#: framework/mega_menu.php:517
+msgid "Center Bottom"
+msgstr ""
+
+#: framework/mega_menu.php:518
+msgid "Center Center"
+msgstr ""
+
+#: framework/mega_menu.php:516
+msgid "Center Top"
+msgstr ""
+
+#: framework/theme_functions.php:1204 framework/woo_functions.php:159
+msgid "Checkout"
+msgstr ""
+
+#: framework/theme_functions.php:343
+msgid "Choose an image"
+msgstr ""
+
+#: admin/options.php:2379
+msgid "Circle"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:135
+msgid "Clear"
+msgstr ""
+
+#: framework/woo_hooks.php:1205
+msgid "Clear All"
+msgstr ""
+
+#: single-portfolio.php:101
+msgid "Client:"
+msgstr ""
+
+#: framework/quickshop.php:86 framework/woo_hooks.php:625
+#: framework/woo_hooks.php:792 framework/woo_hooks.php:803
+msgid "Close "
+msgstr ""
+
+#: admin/redux.php:157
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/mega_menu.php:427
+msgid "Columns"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:59
+#: framework/vc_extension/update_param.php:82
+msgid "Columns gap"
+msgstr ""
+
+#: comments.php:12
+msgid "Comments"
+msgstr ""
+
+#: comments.php:30
+msgid "Comments are closed."
+msgstr ""
+
+#: framework/woo_hooks.php:1141 framework/woo_hooks.php:1151
+msgid "Compare"
+msgstr ""
+
+#: framework/woo_hooks.php:1199
+msgid "Continue To Shopping"
+msgstr ""
+
+#: framework/mega_menu.php:379
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: admin/redux.php:247
+msgid "Custom Code"
+msgstr ""
+
+#: admin/options.php:3335
+msgid "Custom CSS Code"
+msgstr ""
+
+#: admin/options.php:1138
+msgid "Custom Font"
+msgstr ""
+
+#: admin/options.php:1147
+msgid "Custom Font ttf"
+msgstr ""
+
+#: admin/options.php:1685
+msgid "Custom Icon Class"
+msgstr ""
+
+#: admin/options.php:1676
+msgid "Custom Icon URL"
+msgstr ""
+
+#: admin/options.php:3345
+msgid "Custom Javascript Code"
+msgstr ""
+
+#: admin/options.php:324
+msgid "Custom Loading Image"
+msgstr ""
+
+#: admin/register_sidebar.php:86
+msgid "Custom Sidebar Name"
+msgstr ""
+
+#: framework/theme_control.php:244
+msgid "Customer also bought"
+msgstr ""
+
+#: archive.php:19
+msgid "Day: "
+msgstr ""
+
+#: framework/woo_hooks.php:592 admin/options.php:2665 admin/options.php:2905
+#: admin/options.php:2957 framework/vc_extension/update_param.php:62
+#: framework/vc_extension/update_param.php:85
+#: framework/vc_extension/update_param.php:120
+msgid "Default"
+msgstr ""
+
+#: framework/mega_menu.php:391
+msgid "Description"
+msgstr ""
+
+#: admin/options.php:135
+msgid "Device/Sticky Header Logo Width"
+msgstr ""
+
+#: admin/options.php:1462 admin/options.php:1498 admin/options.php:1507
+#: admin/options.php:1516 admin/options.php:1525 admin/options.php:1534
+#: admin/options.php:1543 admin/options.php:1552 admin/options.php:1562
+#: admin/options.php:1585 admin/options.php:1617
+msgid "Disable"
+msgstr ""
+
+#: framework/mega_menu.php:443
+msgid "Display A Widget Area"
+msgstr ""
+
+#: admin/options.php:333
+msgid "Display Loading Screen In"
+msgstr ""
+
+#: admin/options.php:3040
+msgid ""
+"Display the product title in the page content instead of above the "
+"breadcrumbs"
+msgstr ""
+
+#: admin/options.php:118
+msgid "Display this logo on sticky header"
+msgstr ""
+
+#: framework/theme_functions.php:345
+msgid "Do you want to delete this sidebar?"
+msgstr ""
+
+#: framework/theme_filter.php:35
+msgid "Edit"
+msgstr ""
+
+#: framework/mega_menu.php:343 framework/mega_menu.php:345
+msgid "Edit Menu Item"
+msgstr ""
+
+#: admin/options.php:1461 admin/options.php:1497 admin/options.php:1506
+#: admin/options.php:1515 admin/options.php:1524 admin/options.php:1533
+#: admin/options.php:1542 admin/options.php:1551 admin/options.php:1561
+#: admin/options.php:1584 admin/options.php:1616
+msgid "Enable"
+msgstr ""
+
+#: admin/options.php:2555
+msgid "Enable Ajax Search"
+msgstr ""
+
+#: admin/options.php:267
+msgid "Enable Back To Top Button"
+msgstr ""
+
+#: admin/options.php:274
+msgid "Enable Back To Top Button On Mobile"
+msgstr ""
+
+#: admin/options.php:1711
+msgid "Enable Breadcrumbs Background Image"
+msgstr ""
+
+#: admin/options.php:1728
+msgid "Enable Breadcrumbs Background Parallax"
+msgstr ""
+
+#: admin/options.php:2540
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: framework/mega_menu.php:420
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: admin/options.php:237
+msgid "Enable Responsive"
+msgstr ""
+
+#: admin/options.php:222
+msgid "Enable Right To Left"
+msgstr ""
+
+#: admin/options.php:252
+msgid "Enable Smooth Scroll"
+msgstr ""
+
+#: admin/options.php:377
+msgid "Enter Your API Key"
+msgstr ""
+
+#: framework/theme_functions.php:601
+msgid "Error 404"
+msgstr ""
+
+#: admin/register_sidebar.php:128
+msgid "Error! It seems that the sidebar exists. Please try again!"
+msgstr ""
+
+#: admin/options.php:347
+msgid "Exclude Pages"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:204
+msgid "Extra Options"
+msgstr ""
+
+#: admin/options.php:1622
+msgid "Facebook URL"
+msgstr ""
+
+#: admin/options.php:144
+msgid "Favicon"
+msgstr ""
+
+#: admin/options.php:906
+msgid "Feature Label Background Color"
+msgstr ""
+
+#: admin/options.php:896
+msgid "Feature Label Text Color"
+msgstr ""
+
+#: framework/woo_hooks.php:620
+msgid "Filter"
+msgstr ""
+
+#: admin/options.php:2694 admin/register_sidebar.php:37
+msgid "Filter Widget Area"
+msgstr ""
+
+#: admin/options.php:1739
+msgid "First Footer Area"
+msgstr ""
+
+#: admin/options.php:1572
+msgid "Fly To Cart"
+msgstr ""
+
+#: admin/options.php:1165
+msgid "Font size"
+msgstr ""
+
+#: admin/options.php:1157
+msgid "Font Sizes"
+msgstr ""
+
+#: admin/options.php:977
+msgid "Fonts"
+msgstr ""
+
+#: admin/redux.php:184
+msgid "Footer"
+msgstr ""
+
+#: admin/options.php:192
+msgid "Footer Layout Fullwidth"
+msgstr ""
+
+#: framework/mega_menu.php:431 admin/options.php:1815 admin/options.php:1988
+#: admin/options.php:2579 admin/options.php:2860
+msgid "Fullwidth"
+msgstr ""
+
+#: admin/options.php:2213
+msgid "Gallery"
+msgstr ""
+
+#: admin/redux.php:148
+msgid "General"
+msgstr ""
+
+#: admin/options.php:400
+msgid "General Colors"
+msgstr ""
+
+#: admin/options.php:370
+msgid "Google Map API Key"
+msgstr ""
+
+#: admin/options.php:1171 admin/options.php:1332
+msgid "H1 Font Size"
+msgstr ""
+
+#: admin/options.php:1193 admin/options.php:1353
+msgid "H2 Font Size"
+msgstr ""
+
+#: admin/options.php:1215 admin/options.php:1374
+msgid "H3 Font Size"
+msgstr ""
+
+#: admin/options.php:1237 admin/options.php:1395
+msgid "H4 Font Size"
+msgstr ""
+
+#: admin/options.php:1259
+msgid "H5 Font Size"
+msgstr ""
+
+#: admin/options.php:1281
+msgid "H6 Font Size"
+msgstr ""
+
+#: admin/redux.php:175
+msgid "Header"
+msgstr ""
+
+#: admin/options.php:1476
+msgid "Header Contact Information"
+msgstr ""
+
+#: admin/options.php:1503
+msgid "Header Currency"
+msgstr ""
+
+#: admin/options.php:685
+msgid "Header Dark"
+msgstr ""
+
+#: admin/options.php:782
+msgid "Header Dark Menu Text Color"
+msgstr ""
+
+#: admin/options.php:1485
+msgid "Header Delivery Message"
+msgstr ""
+
+#: admin/options.php:1512
+msgid "Header Language"
+msgstr ""
+
+#: admin/options.php:1449
+msgid "Header Layout"
+msgstr ""
+
+#: admin/options.php:46
+#, php-format
+msgid "Header Layout %s"
+msgstr ""
+
+#: admin/options.php:176
+msgid "Header Layout Fullwidth"
+msgstr ""
+
+#: admin/options.php:578
+msgid "Header Light"
+msgstr ""
+
+#: admin/options.php:675
+msgid "Header Light Menu Text Color"
+msgstr ""
+
+#: admin/options.php:1442
+msgid "Header Options"
+msgstr ""
+
+#: admin/options.php:1607 admin/options.php:1613
+msgid "Header Social Icons"
+msgstr ""
+
+#: admin/options.php:1467
+msgid "Header Store Notice"
+msgstr ""
+
+#: admin/options.php:481
+msgid "Heading Color"
+msgstr ""
+
+#: admin/options.php:1072
+msgid "Heading Font"
+msgstr ""
+
+#: admin/options.php:1874 admin/options.php:1883 admin/options.php:1892
+#: admin/options.php:1901 admin/options.php:1910 admin/options.php:1919
+#: admin/options.php:1928 admin/options.php:1937 admin/options.php:2033
+#: admin/options.php:2042 admin/options.php:2051 admin/options.php:2060
+#: admin/options.php:2069 admin/options.php:2078 admin/options.php:2087
+#: admin/options.php:2096 admin/options.php:2105 admin/options.php:2114
+#: admin/options.php:2123 admin/options.php:2149 admin/options.php:2158
+#: admin/options.php:2190 admin/options.php:2225 admin/options.php:2234
+#: admin/options.php:2243 admin/options.php:2252 admin/options.php:2261
+#: admin/options.php:2270 admin/options.php:2279 admin/options.php:2288
+#: admin/options.php:2297 admin/options.php:2306 admin/options.php:2315
+#: admin/options.php:2334 admin/options.php:2393 admin/options.php:2639
+#: admin/options.php:2648 admin/options.php:2680 admin/options.php:2689
+#: admin/options.php:2698 admin/options.php:2707 admin/options.php:2716
+#: admin/options.php:2725 admin/options.php:2734 admin/options.php:2743
+#: admin/options.php:2752 admin/options.php:2761 admin/options.php:2770
+#: admin/options.php:2779 admin/options.php:2788 admin/options.php:2797
+#: admin/options.php:2814 admin/options.php:2999 admin/options.php:3008
+#: admin/options.php:3025 admin/options.php:3034 admin/options.php:3050
+#: admin/options.php:3059 admin/options.php:3068 admin/options.php:3077
+#: admin/options.php:3086 admin/options.php:3095 admin/options.php:3104
+#: admin/options.php:3121 admin/options.php:3130 admin/options.php:3139
+#: admin/options.php:3155 admin/options.php:3189 admin/options.php:3227
+#: admin/options.php:3267 admin/options.php:3284 admin/options.php:3293
+msgid "Hide"
+msgstr ""
+
+#: admin/options.php:2541
+msgid ""
+"Hide all Add To Cart buttons on your site. You can also hide Shopping cart "
+"by going to Header tab > turn Shopping Cart option off"
+msgstr ""
+
+#: framework/theme_functions.php:599
+msgid "Home"
+msgstr ""
+
+#: admin/register_sidebar.php:5
+msgid "Home Sidebar"
+msgstr ""
+
+#: admin/options.php:338
+msgid "Homepage Only"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:123
+msgid "Hosted Video"
+msgstr ""
+
+#: admin/options.php:2462
+msgid "Hover Style"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://theme-sky.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://demo.theme-sky.com/mymedi/"
+msgstr ""
+
+#: admin/options.php:1591
+msgid "If empty, it will query by default"
+msgstr ""
+
+#: admin/options.php:1504
+msgid ""
+"If you don't install WooCommerce Multilingual plugin, it will display demo "
+"html"
+msgstr ""
+
+#: admin/options.php:1513
+msgid "If you don't install WPML plugin, it will display demo html"
+msgstr ""
+
+#: admin/options.php:1139
+msgid ""
+"If you get the error message 'Sorry, this file type is not permitted for "
+"security reasons', you can add this line define('ALLOW_UNFILTERED_UPLOADS', "
+"true); to the wp-config.php file"
+msgstr ""
+
+#: admin/options.php:2981
+msgid ""
+"If you turn it off, the dropdown will be replaced by image or text label"
+msgstr ""
+
+#: admin/options.php:282
+msgid "Image in 404 page"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:186
+#: framework/vc_extension/update_param.php:197
+msgid "In seconds"
+msgstr ""
+
+#: framework/woo_hooks.php:967
+msgid "In Stock"
+msgstr ""
+
+#: admin/options.php:2666
+msgid "Infinity Scroll"
+msgstr ""
+
+#: admin/options.php:2563
+msgid "Input -1 to show all results"
+msgstr ""
+
+#: admin/options.php:1950
+msgid "Input -1 to show full excerpt"
+msgstr ""
+
+#: admin/options.php:521
+msgid "Input Background Color"
+msgstr ""
+
+#: admin/options.php:3214
+msgid "Inside Summary"
+msgstr ""
+
+#: admin/options.php:1631
+msgid "Instagram URL"
+msgstr ""
+
+#: framework/theme_functions.php:1184 framework/quickshop.php:128
+#: framework/quickshop.php:131 framework/woo_hooks.php:835
+#: framework/woo_hooks.php:841
+msgid "Invalid Product"
+msgstr ""
+
+#: admin/options.php:2803
+msgid "It is also used for product shortcode"
+msgstr ""
+
+#: framework/woo_hooks.php:601
+msgid "Latest"
+msgstr ""
+
+#: 404.php:42
+msgid "Latest products"
+msgstr ""
+
+#: framework/woo_hooks.php:1032
+msgid "Latest reviews"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:105
+msgid "Layout"
+msgstr ""
+
+#: admin/options.php:169
+msgid "Layout Fullwidth"
+msgstr ""
+
+#: admin/options.php:162 admin/options.php:200
+msgid "Layout Style"
+msgstr ""
+
+#: admin/options.php:2493
+msgid "Lazy Load"
+msgstr ""
+
+#: admin/options.php:108
+msgid "Leave blank to display the main logo on mobile"
+msgstr ""
+
+#: admin/options.php:1827 admin/options.php:2000 admin/options.php:2591
+#: admin/options.php:2872
+msgid "Left & Right Sidebar"
+msgstr ""
+
+#: framework/mega_menu.php:511
+msgid "Left Bottom"
+msgstr ""
+
+#: framework/mega_menu.php:512
+msgid "Left Center"
+msgstr ""
+
+#: admin/options.php:1819 admin/options.php:1836 admin/options.php:1992
+#: admin/options.php:2009 admin/options.php:2583 admin/options.php:2600
+#: admin/options.php:2864 admin/options.php:2881
+msgid "Left Sidebar"
+msgstr ""
+
+#: framework/mega_menu.php:510
+msgid "Left Top"
+msgstr ""
+
+#: single-portfolio.php:164
+msgid "Like"
+msgstr ""
+
+#: single-portfolio.php:164
+msgid "Likes"
+msgstr ""
+
+#: admin/options.php:491
+msgid "Link Color"
+msgstr ""
+
+#: admin/options.php:501
+msgid "Link Color Hover"
+msgstr ""
+
+#: framework/mega_menu.php:385
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: single-portfolio.php:145
+msgid "Link:"
+msgstr ""
+
+#: admin/options.php:1658
+msgid "LinkedIn URL"
+msgstr ""
+
+#: framework/woo_hooks.php:647
+msgid "LOAD MORE"
+msgstr ""
+
+#: admin/options.php:2667
+msgid "Load More Button"
+msgstr ""
+
+#: admin/options.php:314
+msgid "Loading Image"
+msgstr ""
+
+#: admin/options.php:55
+#, php-format
+msgid "Loading Image %s"
+msgstr ""
+
+#: admin/options.php:300 admin/options.php:307
+msgid "Loading Screen"
+msgstr ""
+
+#: framework/theme_filter.php:100
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: admin/options.php:96
+msgid "Logo"
+msgstr ""
+
+#: admin/options.php:88
+msgid "Logo - Favicon"
+msgstr ""
+
+#: admin/options.php:106
+msgid "Logo On Mobile"
+msgstr ""
+
+#: admin/options.php:126
+msgid "Logo Width"
+msgstr ""
+
+#: framework/woo_functions.php:56
+msgid "Logout"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:207
+msgid "Loop"
+msgstr ""
+
+#: admin/options.php:461
+msgid "Main Content Background Color"
+msgstr ""
+
+#: admin/options.php:455
+msgid "Main Content Colors"
+msgstr ""
+
+#: admin/options.php:184
+msgid "Main Content Layout Fullwidth"
+msgstr ""
+
+#: admin/options.php:1763
+msgid "Mega Menu Widget Area"
+msgstr ""
+
+#: admin/redux.php:193
+msgid "Menu"
+msgstr ""
+
+#: admin/options.php:1094
+msgid "Menu Font"
+msgstr ""
+
+#: admin/options.php:1787
+msgid "Menu Thumbnail Height"
+msgstr ""
+
+#: admin/options.php:1775
+msgid "Menu Thumbnail Width"
+msgstr ""
+
+#: admin/options.php:722
+msgid "Middle Dark Header Background Color"
+msgstr ""
+
+#: admin/options.php:742
+msgid "Middle Dark Header Border Color"
+msgstr ""
+
+#: admin/options.php:732
+msgid "Middle Dark Header Text Color"
+msgstr ""
+
+#: admin/options.php:615
+msgid "Middle Header Background Color"
+msgstr ""
+
+#: admin/options.php:635
+msgid "Middle Header Border Color"
+msgstr ""
+
+#: admin/options.php:625
+msgid "Middle Header Text Color"
+msgstr ""
+
+#: admin/options.php:1765
+msgid "Min: 1, max: 30, step: 1, default value: 6"
+msgstr ""
+
+#: admin/options.php:1777 admin/options.php:1789
+msgid "Min: 5, max: 50, step: 1, default value: 46"
+msgstr ""
+
+#: framework/theme_functions.php:59
+msgid "Mobile Navigation"
+msgstr ""
+
+#: archive.php:22
+msgid "Month: "
+msgstr ""
+
+#: archive.php:22
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: framework/mega_menu.php:341
+msgid "Move down"
+msgstr ""
+
+#: framework/mega_menu.php:326
+msgid "Move up"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:152
+msgid "MP4 Video URL"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:208
+msgid "Muted"
+msgstr ""
+
+#: framework/woo_functions.php:38 framework/woo_functions.php:43
+#: framework/woo_functions.php:55 admin/options.php:1521
+msgid "My Account"
+msgstr ""
+
+#. Name of the theme
+msgid "MyMedi"
+msgstr ""
+
+#: framework/woo_hooks.php:960
+msgid "N/A"
+msgstr ""
+
+#: framework/mega_menu.php:361
+msgid "Navigation Label"
+msgstr ""
+
+#: admin/options.php:886
+msgid "New Label Background Color"
+msgstr ""
+
+#: admin/options.php:876
+msgid "New Label Text Color"
+msgstr ""
+
+#: comments.php:24
+msgid "Newer Comments"
+msgstr ""
+
+#: single-portfolio.php:192 single.php:203
+msgid "Next Post"
+msgstr ""
+
+#: framework/woo_hooks.php:893
+msgid "Next product"
+msgstr ""
+
+#: admin/options.php:2995
+msgid "Next/Prev Product Navigation"
+msgstr ""
+
+#: admin/options.php:2906
+msgid "No"
+msgstr ""
+
+#: admin/functions.php:118
+msgid "No Footer"
+msgstr ""
+
+#: framework/theme_functions.php:1089
+msgid "No products were found"
+msgstr ""
+
+#: framework/mega_menu.php:497
+msgid "No Repeat"
+msgstr ""
+
+#: admin/options.php:1571
+msgid "None"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:126
+msgid "Note: Youtube Video does not work on mobile"
+msgstr ""
+
+#: admin/options.php:558
+msgid "Notice Dark Background Color"
+msgstr ""
+
+#: admin/options.php:568
+msgid "Notice Dark Text Color"
+msgstr ""
+
+#: admin/options.php:538
+msgid "Notice Light Background Color"
+msgstr ""
+
+#: admin/options.php:548
+msgid "Notice Light Text Color"
+msgstr ""
+
+#: admin/options.php:2445
+msgid "Number"
+msgstr ""
+
+#: admin/options.php:2819
+msgid "Number Of Color Swatches"
+msgstr ""
+
+#: admin/options.php:2408
+msgid ""
+"Number of days which you want to show New label since product is published"
+msgstr ""
+
+#: admin/options.php:2654
+msgid "Number of products per page"
+msgstr ""
+
+#: admin/options.php:2562
+msgid "Number Of Results"
+msgstr ""
+
+#: admin/options.php:1764
+msgid "Number Of Widget Areas Available"
+msgstr ""
+
+#: comments.php:23
+msgid "Older Comments"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:111
+msgid "Only support Fullwidth Template"
+msgstr ""
+
+#: archive.php:37
+msgid "OOPS! FILE NOT FOUND"
+msgstr ""
+
+#: framework/mega_menu.php:374
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/mega_menu.php:531
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: framework/woo_hooks.php:84
+msgid "Out of stock"
+msgstr ""
+
+#: admin/options.php:926
+msgid "OutStock Label Background Color"
+msgstr ""
+
+#: admin/options.php:916
+msgid "OutStock Label Text Color"
+msgstr ""
+
+#: admin/options.php:2902
+msgid "Override the Layout Fullwidth option in the General tab"
+msgstr ""
+
+#: framework/theme_functions.php:604
+msgid "Page"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:121
+msgid "Parallax"
+msgstr ""
+
+#: admin/options.php:2446
+msgid "Percent"
+msgstr ""
+
+#: framework/theme_filter.php:53
+msgid "Pingback:"
+msgstr ""
+
+#: admin/options.php:1649
+msgid "Pinterest URL"
+msgstr ""
+
+#: admin/options.php:2508 framework/vc_extension/update_param.php:172
+msgid "Placeholder Image"
+msgstr ""
+
+#: 404.php:19
+msgid "Please back to homepage or check our offer"
+msgstr ""
+
+#: framework/woo_hooks.php:595
+msgid "Popularity"
+msgstr ""
+
+#: admin/options.php:2293
+msgid "Portfolio Categories"
+msgstr ""
+
+#: admin/options.php:2266
+msgid "Portfolio Client"
+msgstr ""
+
+#: admin/options.php:2257
+msgid "Portfolio Content"
+msgstr ""
+
+#: admin/options.php:2330
+msgid "Portfolio Custom Field"
+msgstr ""
+
+#: admin/options.php:2348
+msgid "Portfolio Custom Field Content"
+msgstr ""
+
+#: admin/options.php:2339
+msgid "Portfolio Custom Field Title"
+msgstr ""
+
+#: admin/redux.php:211
+msgid "Portfolio Details"
+msgstr ""
+
+#: admin/options.php:2248
+msgid "Portfolio Likes"
+msgstr ""
+
+#: admin/options.php:2221
+msgid "Portfolio Next/Prev Navigation"
+msgstr ""
+
+#: admin/options.php:2199
+msgid "Portfolio Page"
+msgstr ""
+
+#: admin/options.php:2311
+msgid "Portfolio Related Posts"
+msgstr ""
+
+#: admin/options.php:2302
+msgid "Portfolio Sharing"
+msgstr ""
+
+#: admin/options.php:2230
+msgid "Portfolio Thumbnail"
+msgstr ""
+
+#: admin/options.php:2239
+msgid "Portfolio Title"
+msgstr ""
+
+#: admin/options.php:2284
+msgid "Portfolio URL"
+msgstr ""
+
+#: admin/options.php:2275
+msgid "Portfolio Year"
+msgstr ""
+
+#: framework/woo_hooks.php:880
+msgid "Prev product"
+msgstr ""
+
+#: single-portfolio.php:187 single.php:198
+msgid "Previous Post"
+msgstr ""
+
+#: framework/woo_hooks.php:607
+msgid "Price: high to low"
+msgstr ""
+
+#: framework/woo_hooks.php:604
+msgid "Price: low to high"
+msgstr ""
+
+#: admin/options.php:414
+msgid "Primary Color"
+msgstr ""
+
+#: admin/options.php:408
+msgid "Primary Colors"
+msgstr ""
+
+#: framework/theme_functions.php:58
+msgid "Primary Navigation"
+msgstr ""
+
+#: admin/options.php:2784 admin/options.php:3100
+msgid "Product Add To Cart Button"
+msgstr ""
+
+#: admin/options.php:3109
+msgid "Product Ajax Add To Cart"
+msgstr ""
+
+#: admin/options.php:2987
+msgid "Product Attribute Color Text"
+msgstr ""
+
+#: admin/options.php:2980
+msgid "Product Attribute Dropdown"
+msgstr ""
+
+#: admin/options.php:3064
+msgid "Product Availability"
+msgstr ""
+
+#: admin/options.php:2730 admin/options.php:3117
+msgid "Product Brands"
+msgstr ""
+
+#: admin/options.php:2939
+msgid "Product Breadcrumb"
+msgstr ""
+
+#: admin/options.php:1581 admin/options.php:2739 admin/options.php:3126
+msgid "Product Categories"
+msgstr ""
+
+#: admin/register_sidebar.php:29
+msgid "Product Category Sidebar"
+msgstr ""
+
+#: admin/options.php:2966
+msgid "Product Cloud Zoom"
+msgstr ""
+
+#: admin/options.php:2810
+msgid "Product Color Swatches"
+msgstr ""
+
+#: admin/options.php:792
+msgid "Product Colors"
+msgstr ""
+
+#: admin/options.php:2620
+msgid "Product Columns"
+msgstr ""
+
+#: admin/options.php:2635
+msgid "Product Columns Selector"
+msgstr ""
+
+#: admin/options.php:3082
+msgid "Product Count Down"
+msgstr ""
+
+#: admin/options.php:3223
+msgid "Product Custom Tab"
+msgstr ""
+
+#: admin/options.php:3240
+msgid "Product Custom Tab Content"
+msgstr ""
+
+#: admin/options.php:3232
+msgid "Product Custom Tab Title"
+msgstr ""
+
+#: admin/register_sidebar.php:45
+msgid "Product Detail Sidebar"
+msgstr ""
+
+#: admin/redux.php:238
+msgid "Product Details"
+msgstr ""
+
+#: admin/options.php:3073
+msgid "Product Excerpt"
+msgstr ""
+
+#: admin/options.php:2424
+msgid "Product Feature Label Text"
+msgstr ""
+
+#: admin/options.php:2931
+msgid "Product Footer Layout Fullwidth"
+msgstr ""
+
+#: framework/theme_functions.php:1217
+msgid "Product has been added to your cart"
+msgstr ""
+
+#: admin/options.php:2915
+msgid "Product Header Layout Fullwidth"
+msgstr ""
+
+#: admin/options.php:2455
+msgid "Product Hover"
+msgstr ""
+
+#: admin/options.php:2946
+msgid "Product Images Summary Background"
+msgstr ""
+
+#: admin/options.php:839
+msgid "Product Images Summary Background Color"
+msgstr ""
+
+#: framework/theme_functions.php:1189
+msgid "Product is added to cart"
+msgstr ""
+
+#: admin/options.php:2368 admin/options.php:2721 admin/options.php:3021
+msgid "Product Label"
+msgstr ""
+
+#: admin/options.php:850
+msgid "Product Label Colors"
+msgstr ""
+
+#: admin/options.php:2375
+msgid "Product Label Style"
+msgstr ""
+
+#: admin/options.php:2855
+msgid "Product Layout"
+msgstr ""
+
+#: admin/options.php:2901
+msgid "Product Layout Fullwidth"
+msgstr ""
+
+#: admin/options.php:2973
+msgid "Product Lightbox"
+msgstr ""
+
+#: admin/options.php:2661
+msgid "Product Loading Type"
+msgstr ""
+
+#: admin/options.php:2923
+msgid "Product Main Content Layout Fullwidth"
+msgstr ""
+
+#: admin/options.php:3144
+msgid "Product More/Less Content"
+msgstr ""
+
+#: admin/options.php:2389
+msgid "Product New Label"
+msgstr ""
+
+#: admin/options.php:2398
+msgid "Product New Label Text"
+msgstr ""
+
+#: admin/options.php:2407
+msgid "Product New Label Time"
+msgstr ""
+
+#: admin/options.php:2432
+msgid "Product Out Of Stock Label Text"
+msgstr ""
+
+#: admin/options.php:2775 admin/options.php:3091
+msgid "Product Price"
+msgstr ""
+
+#: admin/options.php:2644
+msgid "Product Quantity Input"
+msgstr ""
+
+#: admin/options.php:2766 admin/options.php:3046
+msgid "Product Rating"
+msgstr ""
+
+#: admin/options.php:809
+msgid "Product Rating Color"
+msgstr ""
+
+#: admin/options.php:819
+msgid "Product Rating Fill Color"
+msgstr ""
+
+#: admin/options.php:2416
+msgid "Product Sale Label Text"
+msgstr ""
+
+#: admin/options.php:799
+msgid "Product Sale Price Color"
+msgstr ""
+
+#: admin/options.php:3151
+msgid "Product Sharing"
+msgstr ""
+
+#: admin/options.php:3168
+msgid "Product Sharing - ShareThis Key"
+msgstr ""
+
+#: admin/options.php:3160
+msgid "Product Sharing - Use ShareThis"
+msgstr ""
+
+#: admin/options.php:2793
+msgid "Product Short Description"
+msgstr ""
+
+#: admin/options.php:2802
+msgid "Product Short Description - Limit Words"
+msgstr ""
+
+#: admin/options.php:2757 admin/options.php:3055
+msgid "Product SKU"
+msgstr ""
+
+#: admin/options.php:2953
+msgid "Product Summary Layout"
+msgstr ""
+
+#: admin/options.php:3178 admin/options.php:3185
+msgid "Product Tabs"
+msgstr ""
+
+#: admin/options.php:3201
+msgid "Product Tabs As Accordion"
+msgstr ""
+
+#: admin/options.php:3209
+msgid "Product Tabs Position"
+msgstr ""
+
+#: admin/options.php:3135
+msgid "Product Tags"
+msgstr ""
+
+#: admin/options.php:2712 admin/options.php:3004
+msgid "Product Thumbnail"
+msgstr ""
+
+#: admin/options.php:3013
+msgid "Product Thumbnail Border"
+msgstr ""
+
+#: admin/options.php:2748 admin/options.php:3030
+msgid "Product Title"
+msgstr ""
+
+#: admin/options.php:3039
+msgid "Product Title In Content"
+msgstr ""
+
+#: admin/options.php:2485
+msgid "Product Tooltip"
+msgstr ""
+
+#: admin/options.php:2685
+msgid "Products On Sale Checkbox"
+msgstr ""
+
+#: admin/options.php:2653
+msgid "Products Per Page"
+msgstr ""
+
+#: admin/options.php:2676
+msgid "Products Per Page Dropdown"
+msgstr ""
+
+#: framework/woo_hooks.php:1178
+msgid "Quantity"
+msgstr ""
+
+#: framework/quickshop.php:16
+msgid "Quick view"
+msgstr ""
+
+#: admin/options.php:2518
+msgid "Quickshop"
+msgstr ""
+
+#: content.php:191 templates/related-posts.php:186
+msgid "Read more"
+msgstr ""
+
+#: admin/options.php:2381
+msgid "Rectangle"
+msgstr ""
+
+#: admin/options.php:3273
+msgid "Related - Up-Sell Products"
+msgstr ""
+
+#: admin/options.php:2321
+msgid "Related Portfolios Background Image"
+msgstr ""
+
+#: templates/related-posts.php:46
+msgid "Related Posts"
+msgstr ""
+
+#: admin/options.php:3289
+msgid "Related Products"
+msgstr ""
+
+#: templates/related-portfolios.php:34
+msgid "Related Projects"
+msgstr ""
+
+#: admin/options.php:3299
+msgid "Related Up-Sell Products Background Image"
+msgstr ""
+
+#: framework/mega_menu.php:546
+msgid "Remove"
+msgstr ""
+
+#: framework/mega_menu.php:469 framework/mega_menu.php:487
+msgid "Remove Image"
+msgstr ""
+
+#: framework/woo_functions.php:149
+msgid "Remove this item"
+msgstr ""
+
+#: framework/mega_menu.php:498
+msgid "Repeat"
+msgstr ""
+
+#: framework/mega_menu.php:499
+msgid "Repeat X"
+msgstr ""
+
+#: framework/mega_menu.php:500
+msgid "Repeat Y"
+msgstr ""
+
+#: framework/theme_filter.php:93
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: admin/options.php:230
+msgid "Responsive"
+msgstr ""
+
+#: framework/mega_menu.php:514
+msgid "Right Bottom"
+msgstr ""
+
+#: framework/mega_menu.php:515
+msgid "Right Center"
+msgstr ""
+
+#: admin/options.php:1823 admin/options.php:1846 admin/options.php:1996
+#: admin/options.php:2019 admin/options.php:2587 admin/options.php:2610
+#: admin/options.php:2868 admin/options.php:2891
+msgid "Right Sidebar"
+msgstr ""
+
+#: admin/options.php:215
+msgid "Right To Left"
+msgstr ""
+
+#: framework/mega_menu.php:513
+msgid "Right Top"
+msgstr ""
+
+#: admin/options.php:866
+msgid "Sale Label Background Color"
+msgstr ""
+
+#: admin/options.php:856
+msgid "Sale Label Text Color"
+msgstr ""
+
+#: searchform.php:3 searchform.php:18
+msgid "Search"
+msgstr ""
+
+#: header.php:77
+msgid "Search "
+msgstr ""
+
+#: admin/options.php:1530
+msgid "Search Bar"
+msgstr ""
+
+#: searchform.php:6
+msgid "Search for products"
+msgstr ""
+
+#: framework/theme_functions.php:600
+msgid "Search results for "
+msgstr ""
+
+#: index.php:9 archive.php:28
+msgid "Search Results for: "
+msgstr ""
+
+#: admin/options.php:1749
+msgid "Second Footer Area"
+msgstr ""
+
+#: admin/options.php:434
+msgid "Secondary Color"
+msgstr ""
+
+#: admin/options.php:1721
+msgid "Select a new image to override the default background image"
+msgstr ""
+
+#: admin/options.php:146
+msgid "Select a PNG, GIF or ICO image"
+msgstr ""
+
+#: admin/options.php:98
+msgid "Select an image file for the main logo"
+msgstr ""
+
+#: admin/options.php:391
+msgid "Select Color Scheme of Theme"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:76
+#: framework/vc_extension/update_param.php:99
+msgid "Select gap between columns in row."
+msgstr ""
+
+#: framework/mega_menu.php:463 framework/mega_menu.php:481
+msgid "Select Image"
+msgstr ""
+
+#: framework/theme_functions.php:341
+msgid "Select Images"
+msgstr ""
+
+#: admin/options.php:2200
+msgid ""
+"Select the page which displays the list of portfolios. You also need to add "
+"our portfolio shortcode to that page"
+msgstr ""
+
+#: admin/options.php:2463
+msgid "Select the style of buttons/icons when hovering on product"
+msgstr ""
+
+#: framework/mega_menu.php:478
+msgid "Set Background"
+msgstr ""
+
+#: framework/mega_menu.php:460
+msgid "Set Thumbnail"
+msgstr ""
+
+#: admin/options.php:128 admin/options.php:137
+msgid "Set width for logo (in pixels)"
+msgstr ""
+
+#: single-portfolio.php:175
+msgid "Share:"
+msgstr ""
+
+#: framework/theme_functions.php:423
+msgid "Shop by category"
+msgstr ""
+
+#: admin/options.php:829
+msgid "Shop Grid Separate Background Color"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: admin/redux.php:229
+msgid "Shop/Product Category"
+msgstr ""
+
+#: admin/options.php:2574
+msgid "Shop/Product Category Layout"
+msgstr ""
+
+#: admin/options.php:1539
+msgid "Shopping Cart"
+msgstr ""
+
+#: admin/options.php:1548
+msgid "Shopping Cart Sidebar"
+msgstr ""
+
+#: framework/woo_hooks.php:518 framework/woo_hooks.php:521
+#: admin/options.php:1873 admin/options.php:1882 admin/options.php:1891
+#: admin/options.php:1900 admin/options.php:1909 admin/options.php:1918
+#: admin/options.php:1927 admin/options.php:1936 admin/options.php:2032
+#: admin/options.php:2041 admin/options.php:2050 admin/options.php:2059
+#: admin/options.php:2068 admin/options.php:2077 admin/options.php:2086
+#: admin/options.php:2095 admin/options.php:2104 admin/options.php:2113
+#: admin/options.php:2122 admin/options.php:2148 admin/options.php:2157
+#: admin/options.php:2189 admin/options.php:2224 admin/options.php:2233
+#: admin/options.php:2242 admin/options.php:2251 admin/options.php:2260
+#: admin/options.php:2269 admin/options.php:2278 admin/options.php:2287
+#: admin/options.php:2296 admin/options.php:2305 admin/options.php:2314
+#: admin/options.php:2333 admin/options.php:2392 admin/options.php:2638
+#: admin/options.php:2647 admin/options.php:2679 admin/options.php:2688
+#: admin/options.php:2697 admin/options.php:2706 admin/options.php:2715
+#: admin/options.php:2724 admin/options.php:2733 admin/options.php:2742
+#: admin/options.php:2751 admin/options.php:2760 admin/options.php:2769
+#: admin/options.php:2778 admin/options.php:2787 admin/options.php:2796
+#: admin/options.php:2813 admin/options.php:2998 admin/options.php:3007
+#: admin/options.php:3024 admin/options.php:3033 admin/options.php:3049
+#: admin/options.php:3058 admin/options.php:3067 admin/options.php:3076
+#: admin/options.php:3085 admin/options.php:3094 admin/options.php:3103
+#: admin/options.php:3120 admin/options.php:3129 admin/options.php:3138
+#: admin/options.php:3154 admin/options.php:3188 admin/options.php:3226
+#: admin/options.php:3266 admin/options.php:3283 admin/options.php:3292
+msgid "Show"
+msgstr ""
+
+#: admin/options.php:2479
+msgid ""
+"Show another product image on hover. It will show an image from Product "
+"Gallery"
+msgstr ""
+
+#: admin/options.php:2704
+msgid ""
+"Show best selling products at the top of product category page. It only "
+"shows if total products is more than double the maximum best selling "
+"products (default is 7)"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:33
+msgid "Show Less"
+msgstr ""
+
+#: admin/options.php:1582
+msgid ""
+"Show list of product categories with icon below header. Only available on "
+"header layout 4"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:32
+msgid "Show More"
+msgstr ""
+
+#: admin/options.php:3145
+msgid "Show more/less content in the Description tab"
+msgstr ""
+
+#: framework/woo_hooks.php:583
+msgid "Show only products on sale"
+msgstr ""
+
+#: admin/options.php:1573
+msgid "Show Popup"
+msgstr ""
+
+#: admin/options.php:3194
+msgid "Show Product Tabs Content By Default"
+msgstr ""
+
+#: admin/options.php:2440
+msgid "Show Sale Label As"
+msgstr ""
+
+#: admin/options.php:1558
+msgid "Show Shopping Cart After Adding Product To Cart"
+msgstr ""
+
+#: admin/options.php:1549
+msgid ""
+"Show shopping cart in sidebar instead of dropdown. You need to update cart "
+"after changing"
+msgstr ""
+
+#: admin/options.php:2988
+msgid "Show text for the Color attribute instead of color/color image"
+msgstr ""
+
+#: admin/options.php:3264
+msgid ""
+"Show the best selling products based on the categories of the main product"
+msgstr ""
+
+#: admin/options.php:2811
+msgid ""
+"Show the color attribute of variations. The slug of the color attribute has "
+"to be \"color\""
+msgstr ""
+
+#: admin/options.php:3195
+msgid "Show the content of all tabs by default and hide the tab headings"
+msgstr ""
+
+#: admin/options.php:2645
+msgid "Show the quantity input on the list view (one column)"
+msgstr ""
+
+#: admin/options.php:2486
+msgid "Show tooltip when hovering on buttons/icons on product"
+msgstr ""
+
+#: admin/options.php:2695
+msgid ""
+"Shows widgets in Filter Widget Area. If enabled, it will not show the "
+"sidebar of the shop/product category page"
+msgstr ""
+
+#: framework/woo_functions.php:30 framework/woo_functions.php:35
+msgid "Sign in"
+msgstr ""
+
+#: framework/woo_hooks.php:960
+msgid "SKU:"
+msgstr ""
+
+#: admin/options.php:2212
+msgid "Slider"
+msgstr ""
+
+#: admin/options.php:245
+msgid "Smooth Scroll"
+msgstr ""
+
+#: admin/options.php:1614
+msgid "Some header layouts don't include the social icons"
+msgstr ""
+
+#: archive.php:69 page-templates/blog-template.php:101
+msgid "Sorry. There are no posts to display"
+msgstr ""
+
+#: index.php:32
+msgid "Sorry. There are no posts to display!"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:29
+msgid "Sort by"
+msgstr ""
+
+#: admin/options.php:339 admin/options.php:358
+msgid "Specific Pages"
+msgstr ""
+
+#: admin/options.php:1590
+msgid "Specific Product Categories"
+msgstr ""
+
+#: admin/options.php:2380
+msgid "Square"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:182
+msgid "Start Time"
+msgstr ""
+
+#: framework/mega_menu.php:451
+msgid "Static HTML"
+msgstr ""
+
+#: admin/options.php:1458
+msgid "Sticky Header"
+msgstr ""
+
+#: admin/options.php:116
+msgid "Sticky Logo"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:193
+msgid "Stop Time"
+msgstr ""
+
+#: admin/options.php:531
+msgid "Store Notice"
+msgstr ""
+
+#: framework/mega_menu.php:430
+msgid "Stretch row"
+msgstr ""
+
+#: framework/mega_menu.php:429
+msgid "Stretch row & content"
+msgstr ""
+
+#: admin/options.php:1943
+msgid "Strip all html tags in Excerpt"
+msgstr ""
+
+#: admin/options.php:2466
+msgid "Style 1"
+msgstr ""
+
+#: admin/options.php:2467
+msgid "Style 2"
+msgstr ""
+
+#: admin/options.php:2468
+msgid "Style 3"
+msgstr ""
+
+#: admin/options.php:2469
+msgid "Style 4"
+msgstr ""
+
+#: admin/options.php:2470
+msgid "Style 5"
+msgstr ""
+
+#: framework/mega_menu.php:411
+msgid "Sub Label Background Color"
+msgstr ""
+
+#: framework/mega_menu.php:404
+msgid "Sub Label Text"
+msgstr ""
+
+#: admin/options.php:1116
+msgid "Sub Menu Font"
+msgstr ""
+
+#: framework/woo_functions.php:156
+msgid "Subtotal : "
+msgstr ""
+
+#: admin/register_sidebar.php:125
+msgid "Successfully added the sidebar"
+msgstr ""
+
+#: admin/register_sidebar.php:150
+msgid "Successfully deleted the sidebar"
+msgstr ""
+
+#: admin/options.php:1326
+msgid "Tablet/Phone Font Size"
+msgstr ""
+
+#: archive.php:31
+msgid "Tag: "
+msgstr ""
+
+#: framework/theme_functions.php:602
+msgid "Tagged "
+msgstr ""
+
+#: framework/woo_hooks.php:942
+msgid "Tags:"
+msgstr ""
+
+#: admin/options.php:2444
+msgid "Text"
+msgstr ""
+
+#: admin/options.php:471
+msgid "Text Color"
+msgstr ""
+
+#: admin/options.php:424
+msgid "Text In Background Primary Color"
+msgstr ""
+
+#: admin/options.php:444
+msgid "Text In Background Secondary Color"
+msgstr ""
+
+#: admin/options.php:153
+msgid "Text Logo"
+msgstr ""
+
+#: admin/options.php:2954
+msgid "The 2 Columns layout is not available if product has sidebar"
+msgstr ""
+
+#: framework/mega_menu.php:393
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: admin/redux.php:29 admin/redux.php:30
+msgid "Theme Options"
+msgstr ""
+
+#. Author of the theme
+msgid "Theme Sky Team"
+msgstr ""
+
+#: admin/options.php:1811
+msgid "This option is available when Front page displays the latest posts"
+msgstr ""
+
+#: 404.php:18
+msgid "This page has been probably moved somewhere..."
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:37
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: admin/options.php:2208
+msgid "Thumbnail Style"
+msgstr ""
+
+#: framework/mega_menu.php:367
+msgid "Title Attribute"
+msgstr ""
+
+#: admin/options.php:692
+msgid "Top Dark Header Background Color"
+msgstr ""
+
+#: admin/options.php:712
+msgid "Top Dark Header Border Color"
+msgstr ""
+
+#: admin/options.php:702
+msgid "Top Dark Header Text Color"
+msgstr ""
+
+#: admin/options.php:585
+msgid "Top Header Background Color"
+msgstr ""
+
+#: admin/options.php:605
+msgid "Top Header Border Color"
+msgstr ""
+
+#: framework/theme_functions.php:60
+msgid "Top Header Navigation"
+msgstr ""
+
+#: admin/options.php:595
+msgid "Top Header Text Color"
+msgstr ""
+
+#: index.php:33
+msgid "Try researching for something else."
+msgstr ""
+
+#: admin/options.php:1667
+msgid "Twitter URL"
+msgstr ""
+
+#: admin/redux.php:166
+msgid "Typography"
+msgstr ""
+
+#: admin/options.php:3280
+msgid "Up-Sell Products"
+msgstr ""
+
+#: admin/options.php:1149
+msgid ""
+"Upload the .ttf font file. To use it, you select CustomFont in the Standard "
+"Fonts group"
+msgstr ""
+
+#: framework/mega_menu.php:354
+msgid "URL"
+msgstr ""
+
+#: admin/options.php:1686
+msgid "Use Font Awesome 5 Free. Ex: fab fa-facebook-f"
+msgstr ""
+
+#: framework/theme_functions.php:344
+msgid "Use image"
+msgstr ""
+
+#: framework/theme_functions.php:342
+msgid "Use images"
+msgstr ""
+
+#: admin/options.php:2129 admin/options.php:3161
+msgid "Use share buttons from sharethis.com. You need to add key below"
+msgstr ""
+
+#: framework/theme_functions.php:1072
+#, php-format
+msgid "View all %d results"
+msgstr ""
+
+#: framework/theme_functions.php:1203 framework/woo_functions.php:158
+msgid "View Cart"
+msgstr ""
+
+#: framework/woo_functions.php:85
+msgid "View your shopping cart"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:162
+msgid "WebM / Ogg Video URL"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:108
+msgid "Wide"
+msgstr ""
+
+#: framework/woo_functions.php:222 framework/woo_hooks.php:1111
+#: framework/woo_hooks.php:1117 admin/options.php:1494
+msgid "Wishlist"
+msgstr ""
+
+#: framework/woo_functions.php:226
+msgid "Wishlist "
+msgstr ""
+
+#: admin/redux.php:220
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/theme_filter.php:105
+msgid "Write a comment"
+msgstr ""
+
+#: framework/theme_filter.php:106
+#, php-format
+msgid "Write a reply to %s"
+msgstr ""
+
+#: framework/theme_control.php:387 framework/woo_hooks.php:1036
+msgid "Write a review"
+msgstr ""
+
+#: single-portfolio.php:110
+msgid "Year:"
+msgstr ""
+
+#: archive.php:25
+msgid "Year: "
+msgstr ""
+
+#: archive.php:25
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: admin/options.php:2907
+msgid "Yes"
+msgstr ""
+
+#: admin/options.php:1486
+msgid "You can add a message about delivery"
+msgstr ""
+
+#: admin/options.php:1468
+msgid "You can add a notice at the top of page"
+msgstr ""
+
+#: admin/options.php:2837
+msgid "You can add banner or custom content at the bottom of products"
+msgstr ""
+
+#: admin/options.php:3317
+msgid "You can add banner or custom content at the bottom of the product page"
+msgstr ""
+
+#: admin/options.php:1477
+msgid "You can add welcome text, email, phone number..."
+msgstr ""
+
+#: admin/options.php:2947
+msgid ""
+"You can change background color in the Color Scheme tab. Not available if "
+"product has sidebar"
+msgstr ""
+
+#: admin/options.php:201
+msgid "You can override this option for the individual page"
+msgstr ""
+
+#: admin/options.php:1712
+msgid ""
+"You can set background color by going to Color Scheme tab > Breadcrumb "
+"Colors section"
+msgstr ""
+
+#: admin/options.php:2137 admin/options.php:3169
+msgid "You get it from script code. It is the value of \"property\" attribute"
+msgstr ""
+
+#: admin/options.php:3083
+msgid "You have to activate ThemeSky plugin"
+msgstr ""
+
+#: framework/theme_filter.php:99
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: admin/options.php:1559
+msgid ""
+"You need to enable Ajax add to cart in WooCommerce > Settings > Products"
+msgstr ""
+
+#: admin/options.php:1569
+msgid ""
+"You need to enable Ajax add to cart in WooCommerce > Settings > Products. If "
+"\"Show Shopping Cart After Adding Product To Cart\" is enabled, this option "
+"will be disabled"
+msgstr ""
+
+#: framework/woo_hooks.php:653
+#, php-format
+msgid "You're viewed %s of %s products"
+msgstr ""
+
+#: framework/woo_hooks.php:656
+#, php-format
+msgid "You're viewed all %s products"
+msgstr ""
+
+#: framework/woo_functions.php:108
+msgid "Your cart is currently empty"
+msgstr ""
+
+#: framework/theme_filter.php:98
+msgid "Your comment"
+msgstr ""
+
+#: framework/theme_filter.php:25
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/theme_filter.php:89
+msgid "Your e-mail"
+msgstr ""
+
+#: framework/theme_filter.php:126
+msgid "Your email address will not be published. All fields are required"
+msgstr ""
+
+#: framework/theme_filter.php:88
+msgid "Your name"
+msgstr ""
+
+#: framework/theme_filter.php:90
+msgid "Your website"
+msgstr ""
+
+#: admin/options.php:1640
+msgid "Youtube URL"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:122
+msgid "Youtube Video"
+msgstr ""
+
+#: framework/vc_extension/update_param.php:142
+msgid "Youtube Video URL"
+msgstr ""
